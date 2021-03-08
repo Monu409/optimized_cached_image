@@ -17,6 +17,6 @@ dependencies:
   pedantic: ^1.8.0+1
   sprintf: ^4.0.0
   octo_image: ^0.3.0
-  image: ^2.1.18
+  image: ^3.0.1
 dev_dependencies:
   test: 1.9.4
